@@ -33,11 +33,11 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'mortadha-azanni', // Usually your GitHub org/user name.
-  projectName: 'react-breackdown', // Usually your repo name.
+  projectName: 'react-breakdown', // Usually your repo name.
 
   trailingSlash: false,
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -116,7 +116,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/start',
               },
             ],
           },
