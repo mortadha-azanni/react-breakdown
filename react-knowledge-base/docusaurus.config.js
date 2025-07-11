@@ -35,6 +35,8 @@ const config = {
   organizationName: 'mortadha-azanni', // Usually your GitHub org/user name.
   projectName: 'react-breackdown', // Usually your repo name.
 
+  trailingSlash: false,
+
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
